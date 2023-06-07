@@ -31,7 +31,7 @@ export default {
 </script>
 
 <template>
-  <AppHeader message="CiaoCiao" />
+  <AppHeader message="Yu-Gi-Oh Api" />
   <CharactersList />
 </template>
 

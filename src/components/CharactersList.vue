@@ -22,8 +22,11 @@ export default {
 </template>
 
 <style scoped lang="scss">
-h4 {
-    font-weight: 700;
+section {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D48F38;
+    justify-content: center;
 }
 </style>
 
